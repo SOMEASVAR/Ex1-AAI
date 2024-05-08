@@ -1,7 +1,7 @@
 <H3> Name : Someasvar R</H3>
 <H3>Register No : 212221230103 </H3>
 <H3> Experiment 1</H3>
-<H3>DATE: 21/2/24</H3>
+<H3>DATE: 21/02/24</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim :
